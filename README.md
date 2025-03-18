@@ -23,7 +23,7 @@ pip install scapy
 Run the script with:
 python ids_logger.py
 ```
-###🎯 Testing the IDS
+### 🎯 Testing the IDS
 Use Nmap from another machine to simulate an attack:
 ```bash
 nmap -p 22 -sS <TARGET_IP>
