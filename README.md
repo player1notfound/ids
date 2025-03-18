@@ -28,7 +28,7 @@ Use Nmap from another machine to simulate an attack:
 ```bash
 nmap -p 22 -sS <TARGET_IP>
 ```
-The attacker's IP will be logged in suspicious_ips.log.
+The attacker's IP will be logged in suspicious_ips.log
 
 ### 📝 Sample Log Output
 ```bash
